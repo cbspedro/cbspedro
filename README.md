@@ -19,7 +19,12 @@
 
 <div>
 	<h3 align="center">SoftSkills:<h3>
-	<p align="center">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management<p>
+	<p align="center">Emotional intelligence
+, Communication
+, Collaboration
+, Critical Thinking
+, Creativity
+, Leadership<p>
 </div>
 
 ##	
