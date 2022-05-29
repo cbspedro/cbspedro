@@ -5,7 +5,7 @@
 
 | Tools  | Languages | Frameworks  | Technologies |  
 |---|---|---|---|
-|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/cbspedro/cbspedro/blob/main/img/GitHub.svg" title="" alt="J" width="30" height="30" background-color="white"/>&nbsp;&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/cbspedro/cbspedro/blob/main/img/JavaScript.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/cbspedro/cbspedro/blob/main/img/HTML.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/cbspedro/cbspedro/blob/main/img/CSS.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/cbspedro/cbspedro/blob/main/img/WordPress.svg" title="" alt="J" width="30" height="30"/></div></div>| 
+|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/cbspedro/cbspedro/blob/main/assets/GitHub.svg" title="" alt="J" width="30" height="30" background-color="white"/>&nbsp;&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/cbspedro/cbspedro/blob/main/assets/JavaScript.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/cbspedro/cbspedro/blob/main/assets/HTML.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/cbspedro/cbspedro/blob/main/assets/CSS.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/cbspedro/cbspedro/blob/main/assets/WordPress.svg" title="" alt="J" width="30" height="30"/></div></div>| 
 
 ## 
 
@@ -30,10 +30,9 @@
 
 ## Connect with me:
 <div align="center">
-  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://instagram.com/cbs_pedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<!-- <a href="https://www.twitch.tv/MateusHoffmani" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
- <!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+ 	<a href="https://www.twitch.tv/cbspedro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me/222887126314909696" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrocbseverino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cbspedro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
