@@ -4,16 +4,16 @@
   uses: Platane/snk@v2.0.0-rc.2
   with:
     # github user name
-    github_user_name: 
+    github_user_name: cbspedro
     # list of files to generate.
 Generates one file per line. Each output can be customized with query string.
 following this pattern: path/to/file.<gif or svg>?palette=<github or github-dark>&color_snake=<color>&color_dots=<color>,<color>,<color>,<color>,<color>
 
 supported query string options:
 
-- palette: a preset of color, one of [github, github-dark, github-light]
-- color_snake: color of the snake
-- color_dots: coma separated list of dots color. The first one is the empty cell color, the second one is the lightest shade, the third one is the second lightest shade ect ...
+- palette: github
+- color_snake: blue
+- color_dots: gray,light-green,green
 
 example:
   outputs: |
