@@ -44,7 +44,7 @@
 
 ## ❤ Views and Followers
 <div align="center">
-	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+	<a href="https://github.com/cbspedro/">
 		<img src="https://komarev.com/ghpvc/?username=cbspedro">
 	</a>
 	<a href="https://github.com/cbspedro?tab=followers"><img src="https://img.shields.io/github/followers/cbspedro?label=Followers&style=social" 			alt="GitHub Badge"></a>
