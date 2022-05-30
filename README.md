@@ -1,4 +1,4 @@
-[![Cbspedro's GitHub Banner](./assets/GitHubHeader.png)]()
+[![Cbspedro's GitHub Banner](./assets/GitHubHeader.png)]
 ##
 
 <div id='lojc' align="center">
