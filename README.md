@@ -29,7 +29,7 @@
 ##	
 
 
-![Snake animation](https://github.com/cbspedro/cbspedro/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/cbspedro/cbspedro/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Connect with me:
